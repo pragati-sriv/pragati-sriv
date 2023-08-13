@@ -23,7 +23,7 @@
 ## GitHub Summary
 
 <div align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Join%20Date-April%202021-brightgreen" alt="GitHub Join Date">
+  <img src="https://img.shields.io/badge/GitHub%20Join%20Date-June%202023-brightgreen" alt="GitHub Join Date">
 </div>
 
 <br>
