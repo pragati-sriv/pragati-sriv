@@ -20,6 +20,8 @@
 
 ## GitHub Summary
 
+## GitHub Summary
+
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub%20Join%20Date-April%202021-brightgreen" alt="GitHub Join Date">
 </div>
@@ -39,17 +41,12 @@
     </a>
   </div>
   
+  <!-- This section is for top languages -->
   <div>
-    <a href="https://github-contributor-stats.vercel.app/api?username=pragati-sriv&limit=5&theme=highcontrast&hide_border=true">
-      <img src="https://github-contributor-stats.vercel.app/api?username=pragati-sriv&limit=5&theme=highcontrast&hide_border=true" alt="Top Contributed Repositories">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-sriv&layout=compact&theme=highcontrast">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-sriv&layout=compact&theme=highcontrast" alt="Top Languages">
     </a>
   </div>
-</div>
-
-<div align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-sriv&layout=compact&theme=highcontrast">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-sriv&layout=compact&theme=highcontrast" alt="Top Languages">
-  </a>
 </div>
 
 
