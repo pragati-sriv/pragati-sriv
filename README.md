@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Javascript , React**
 
-- 📫 How to reach me **ps028ideal@gmail.com**
+- 📫 How to reach me **pragatishikha24@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
